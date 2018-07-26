@@ -1,4 +1,4 @@
-# RPG Maker VX Ace Clean Project
+# RPG Maker MV Clean Project
 
 Lors de la création d'un nouveau projet, RPG Maker MV inclut de nombreuses entrées dans la base de données, et copie de nombreuses images et sons. Utiliser des ressources personnelles demande un nettoyage fastidieux dans chaque nouveau projet.
 
